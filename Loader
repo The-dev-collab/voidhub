@@ -1,4 +1,4 @@
 if game.PlaceId == 8750997647 then
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/DanielDuesenDieb/Void-Hub/main/Loader')))
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/DanielDuesenDieb/Void-Hub/main/Tapping%20legends%20X')))
 else
     print("Wrong Game!")
