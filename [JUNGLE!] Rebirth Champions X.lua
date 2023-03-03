@@ -893,8 +893,9 @@ end
 
 local Paragraph = changelogTab:CreateParagraph({Title = "CHANGELOG", Content = "LAST UPDATE:03.03.2023"})
 
-local Label = changelogTab:CreateLabel("Fix Crashing if Open Triple Eggs (03.03.2023)")
+local Label = changelogTab:CreateLabel("Going Open Source (03.03.2023)")
 
+local Label = changelogTab:CreateLabel("Fix Crashing if Open Triple Eggs (03.03.2023)")
 
 local Label = changelogTab:CreateLabel("Performance Buffs (02.28.2023)")
 
